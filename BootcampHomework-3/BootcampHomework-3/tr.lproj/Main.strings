@@ -1,0 +1,42 @@
+
+/* Class = "UINavigationItem"; title = "Breath Exercise"; ObjectID = "Gol-PW-NKx"; */
+"Gol-PW-NKx.title" = "Nefes Egzersizi";
+
+/* Class = "UILabel"; text = "Square Breath"; ObjectID = "HHB-LC-GRU"; */
+"HHB-LC-GRU.text" = "Kare Nefes Egzersizi";
+
+/* Class = "UIButton"; configuration.title = "Inhale"; ObjectID = "OBh-UD-NOn"; */
+"OBh-UD-NOn.configuration.title" = "Nefes Al";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "OBh-UD-NOn"; */
+"OBh-UD-NOn.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "0"; ObjectID = "gOG-s8-zaK"; */
+"gOG-s8-zaK.placeholder" = "0";
+
+/* Class = "UIButton"; configuration.title = "Exhale"; ObjectID = "k93-BZ-1en"; */
+"k93-BZ-1en.configuration.title" = "Nefes Ver";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "k93-BZ-1en"; */
+"k93-BZ-1en.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Hold"; ObjectID = "ntL-HW-RRj"; */
+"ntL-HW-RRj.configuration.title" = "Tut";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ntL-HW-RRj"; */
+"ntL-HW-RRj.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Now, "; ObjectID = "rnn-e5-Bzg"; */
+"rnn-e5-Bzg.text" = "Now, ";
+
+/* Class = "UILabel"; text = "Now, hold your breath!"; ObjectID = "tUg-sp-Pej"; */
+"tUg-sp-Pej.text" = "Şimdi, Nefesini Tut!";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "vU9-oz-qZS"; */
+"vU9-oz-qZS.title" = "Item";
+
+/* Class = "UIButton"; configuration.title = "Hold"; ObjectID = "zLh-bH-t2y"; */
+"zLh-bH-t2y.configuration.title" = "Tut";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "zLh-bH-t2y"; */
+"zLh-bH-t2y.normalTitle" = "Button";
